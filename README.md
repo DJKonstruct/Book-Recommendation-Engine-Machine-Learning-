@@ -1,8 +1,8 @@
-# Book-Recommendation-Engine-Machine-Learning-
+# Book Recommender ML
 Machine learning book recommender system as part of Caltech AI/ML bootcamp.
 
 
-# CSR Analysis
+# CSR Analysis Project
 Caltech AI/ML Bootcamp Project Performing Applied Data Science with Python.
 
 Highlights include using Python packages like Pandas, NumPy, Seaborn, and performing tasks like exploratory data analysis, feature engineering, feature selection, and data wrangling.
