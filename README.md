@@ -1,6 +1,8 @@
 # Book Recommender ML
 Machine learning book recommender system as part of Caltech AI/ML bootcamp.
 
+Keep in mind, as this was for a class, the steps taken throughout the notebook may feel scripted as it was part of a prompt.
+
 
 # CSR Analysis Project
 Caltech AI/ML Bootcamp Project Performing Applied Data Science with Python.
