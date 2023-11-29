@@ -5,7 +5,7 @@ Highlights include using Python packages like Keras to develop a sequential deep
 
 Please keep in mind, as this was for a class, the steps taken throughout the notebook may feel scripted as it was part of a prompt.
 
-# Book Recommender ML
+# Book Recommender ML Project
 Completed as part of Machine Learning course for Caltech AI/ML bootcamp.
 
 We build a book recommender system using simple cross correlation coefficients based on other user inputs.
